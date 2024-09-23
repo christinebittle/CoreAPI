@@ -14,8 +14,9 @@ This example is adapted from the template API code scaffolding. See ProductsCont
 - Interact with Ordered Items through API requests
 
 ## Index of Examples
-1. [Code First Migrations](https://github.com/christinebittle/CoreEntityFramework)
+1. [Core Entity Framework](https://github.com/christinebittle/CoreEntityFramework)
 2. [Core API](https://github.com/christinebittle/CoreAPI)
+3. [Core Services](https://github.com/christinebittle/CoreServices)
 
 ## Test Your Understanding!
 - Modify ProductsController.cs to use the same routing convention as OrderItemsController
