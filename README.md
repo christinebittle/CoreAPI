@@ -17,6 +17,7 @@ This example is adapted from the template API code scaffolding. See ProductsCont
 1. [Core Entity Framework](https://github.com/christinebittle/CoreEntityFramework)
 2. [Core API](https://github.com/christinebittle/CoreAPI)
 3. [Core Services](https://github.com/christinebittle/CoreServices)
+4. [MVC & ViewModels](https://github.com/christinebittle/OnlineStore)
 
 ## Test Your Understanding!
 - Modify ProductsController.cs to use the same routing convention as OrderItemsController
