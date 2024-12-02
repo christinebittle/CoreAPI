@@ -13,6 +13,8 @@ This example is adapted from the template API code scaffolding. See ProductsCont
 - Add Customer, Order, Product records
 - Interact with Ordered Items through API requests
 
+
+
 ## Index of Examples
 1. [Core Entity Framework](https://github.com/christinebittle/CoreEntityFramework)
 2. [Core API](https://github.com/christinebittle/CoreAPI)
@@ -24,6 +26,7 @@ This example is adapted from the template API code scaffolding. See ProductsCont
 8. [Conditional Access](https://github.com/christinebittle/OnlineStore/tree/conditional-access)
 9. [Conditional Rendering](https://github.com/christinebittle/OnlineStore/tree/conditional-rendering)
 10. [Client Integration](https://github.com/christinebittle/OnlineStore/tree/client-integration)
+11. [Workers and Server to Server Communication](https://github.com/christinebittle/OnlineStore/tree/worker)
 
 
 
